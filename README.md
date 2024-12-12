@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Marco-Ariel-Serafini
-- 👀 I’m interested in working with you
+- 👀 I’m interested in working as a Data Analyst
 - 🌱 I’m currently learning Python and SQL
 
 <!---
